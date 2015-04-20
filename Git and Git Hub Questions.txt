@@ -5,9 +5,11 @@ Git and Git Hub Questions:
 
 git pull 
 
+question using git pull —rebase
+
 2. What is the command for seeing the repository history via the command line?
 
-git log
+git status
 
 3. In the Git Hub app, I can "discard changes" to a file by right clicking on it. What's the equivalent command on the terminal?
 
