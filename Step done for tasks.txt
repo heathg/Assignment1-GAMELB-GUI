@@ -1,0 +1,42 @@
+Assignment 1: 
+
+1. Create a new repository, clone it to your local machine
+
+	Interpretation of question:
+	Request is to create remote repo (not local first)
+
+	Steps performed:
+	a)Use website github.com to create repo, repository name and description given
+	b)Click the Setup in Desktop button to launch GitHub Application locally
+	(this syncs the repo locally)
+
+ 2. Open Xcode, create a new Project, then and add the project files to this repository.
+
+	Steps performed:
+	Open Xcode, created new project then saved the project to the folder repo
+
+ 3. Then add the following text file to the repository answering the questions within.
+
+	Steps performed:
+	Clicked on text file link in slack and saved locally to the repo folder 
+	then answered questions
+
+ 4. Commit and push files to the repository.
+	Steps performed:
+	Using GitHub Application, click o the changes tab, type information in summary and 
+	make sure all boxes are ticked, add description then commit to master.
+	Then click the publish button to push local copy to github repo
+
+	*Validation step (not requested but wanted to do)
+	Upon performing previous steps and looking at the GitHub application using the
+	“History tab” to see the commit as to what had been done, then further verification 
+	by going into the repo on the GitHub.com website to see the Xcode files and text file
+	was available.
+
+ 5. If you like, share your experience in completing this challenge, good and/or bad. 
+
+	I done the task once after a number of trip ups and completed the tasks requested,
+	I had no issues doing the assignment but felt I still had no comprehension of what 
+	actually happened or how i got	 there, I decided to also do the task again noting 
+	down the steps for both a GUI (lazy/efficient at times approach) and also a more 
+	terminal approach
