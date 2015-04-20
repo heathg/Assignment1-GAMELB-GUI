@@ -1,7 +1,7 @@
 # Assignment1-GAMELB-GUI
 GA Mobile Development Course Assignment 1 GUI Use
 
-For detailed information see "steps done for tasks gui.txt"
+For detailed information see "steps done for tasks.txt"
 
 1)New repo created and cloned locally
 
