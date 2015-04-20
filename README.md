@@ -13,9 +13,6 @@ For detailed information see "steps done for tasks gui.txt"
 
 Tasks completed to best of knowledge and current ability
 
-
-Not 100% confident on the commands used are correct!
-
 I done the task once after a number of trip ups and completed the tasks requested, I had
 no issues doing the assignment but felt I still had no comprehension of what actually 
 happened or how i got there, I decided to also do the task again noting down the steps
